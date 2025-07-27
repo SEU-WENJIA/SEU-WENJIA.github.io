@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 I am Jiawen Chen, a Ph.D. student at the School of Mathematics, Southeast University, Nanjing, China. I received my Bachelor's degree in Information and Computing Science in 2022 and continued my graduate studies at the same institution. My research interests lie at the intersection of complex networks, complex systems, graph representation learning, and higher-order neural networks. I am particularly interested in developing machine learning models, LLM for GNN modeling and higher-order networks.
 
