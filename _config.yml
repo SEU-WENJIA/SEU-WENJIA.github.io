@@ -22,7 +22,7 @@ repository               : "https://github.com/SEU-WENJIA"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jiawenchen.jpg"
+  avatar           : "images/jiawenchen.jpg"
   name             : "Jiawen Chen"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
