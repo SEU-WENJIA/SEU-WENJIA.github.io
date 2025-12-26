@@ -24,17 +24,17 @@ author:
   # Biographic information
   avatar           : "images/chenjiawen.jpg"
   name             : "Jiawen Chen"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "Him"  
+  bio              : "Pursuing a PhD (Artificial Intelligence & Systems Science)"
   location         : "Nanjing China"
   employer         : "Southeast University"
-  uri              : # URL
+  uri              : "https://openreview.net/profile?id=%7EJiawen_Chen10"
   email            : "chenjiawen@seu.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=eyWjjeAAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
